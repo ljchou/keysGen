@@ -1,0 +1,3 @@
+file:
+  key: ${ENV_KEYS_URL:d://keys.txt}
+  word: ${ENV_WORDS_URL:d://words.txt}
